@@ -26,6 +26,7 @@ The model analyzes patient data to predict cancer risk, helping in early diagnos
 
 ## 📁 Project Structure
 Colorectal-Cancer-Prediction/
-│── notebook.ipynb  
+
+│── cancer_prediction_model.ipynb  
 │── dataset.csv  
 │── README.md  
